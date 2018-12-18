@@ -6,5 +6,9 @@
 
 [https://willowtreeapps.com/ideas/the-pros-and-cons-of-programming-in-go](https://willowtreeapps.com/ideas/the-pros-and-cons-of-programming-in-go)
 
-https://getstream.io/blog/switched-python-go/
+[https://getstream.io/blog/switched-python-go/](https://getstream.io/blog/switched-python-go/)
+
+
+
+https://awesome-go.com            A curated list of awesome Go frameworks, libraries and software.
 
