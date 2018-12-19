@@ -8,4 +8,5 @@
 * [Why Go Fast](why-go-fast.md)
 * [References](references.md)
 * [Books](books.md)
+* [promise of compatibility](promise-of-compatibility.md)
 
