@@ -8,7 +8,7 @@
 
 [https://getstream.io/blog/switched-python-go/](https://getstream.io/blog/switched-python-go/)
 
+[https://awesome-go.com](https://awesome-go.com)            A curated list of awesome Go frameworks, libraries and software.
 
-
-https://awesome-go.com            A curated list of awesome Go frameworks, libraries and software.
+https://github.com/shijuvar/trainings-talks/blob/master/README.md
 
