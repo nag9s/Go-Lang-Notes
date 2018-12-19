@@ -10,3 +10,5 @@ Go in practise  2016
 
 Learning Go Programming 2016
 
+Hands-On Go Programming 2018  1.10
+
