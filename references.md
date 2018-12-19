@@ -12,7 +12,7 @@
 
 [https://github.com/shijuvar/trainings-talks/blob/master/README.md](https://github.com/shijuvar/trainings-talks/blob/master/README.md)
 
+[https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins)  - IDEs, Tools
 
-
-https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins  - IDEs, Tools
+https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md\#installation  - Go Eclipse plugin
 
