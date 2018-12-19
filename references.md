@@ -10,5 +10,9 @@
 
 [https://awesome-go.com](https://awesome-go.com)            A curated list of awesome Go frameworks, libraries and software.
 
-https://github.com/shijuvar/trainings-talks/blob/master/README.md
+[https://github.com/shijuvar/trainings-talks/blob/master/README.md](https://github.com/shijuvar/trainings-talks/blob/master/README.md)
+
+
+
+https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins  - IDEs, Tools
 
