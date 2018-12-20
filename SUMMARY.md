@@ -10,6 +10,6 @@
 * [Books](books.md)
 * [promise of compatibility](promise-of-compatibility.md)
 * Environment  Variables
-  * GOPATH
+  * [GOPATH](gopath.md)
   * GOROOT
 
