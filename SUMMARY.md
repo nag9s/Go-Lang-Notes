@@ -9,4 +9,7 @@
 * [References](references.md)
 * [Books](books.md)
 * [promise of compatibility](promise-of-compatibility.md)
+* Environment  Variables
+  * GOPATH
+  * GOROOT
 
