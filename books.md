@@ -12,5 +12,5 @@ Learning Go Programming 2016
 
 Hands-On Go Programming 2018                         1.10
 
-WebDevelopment with Go                                      1.5
+WebDevelopment with Go                                      1.4
 
