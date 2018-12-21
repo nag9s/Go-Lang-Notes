@@ -12,4 +12,6 @@
 * [Environment  Variables](environment-variables.md)
   * [GOPATH](gopath.md)
   * GOROOT
+* [IDE](ide.md)
+  * [GoEclipse](ide/goeclipse.md)
 
