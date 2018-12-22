@@ -14,4 +14,5 @@
   * GOROOT
 * [IDE](ide.md)
   * [GoEclipse](ide/goeclipse.md)
+* [Commands](commands.md)
 
