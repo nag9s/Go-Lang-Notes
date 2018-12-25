@@ -22,5 +22,7 @@
 
 [https://www.dotnetperls.com/switch-go](https://www.dotnetperls.com/switch-go)
 
-https://gobyexample.com/string-functions
+[https://gobyexample.com/string-functions](https://gobyexample.com/string-functions)
+
+https://www.programming-books.io/essential/go/
 
