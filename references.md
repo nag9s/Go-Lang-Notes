@@ -18,9 +18,9 @@
 
 [https://golang.org/dl/](https://golang.org/dl/)  Downloads
 
-
-
 **Examples**
 
-https://www.dotnetperls.com/switch-go
+[https://www.dotnetperls.com/switch-go](https://www.dotnetperls.com/switch-go)
+
+https://gobyexample.com/string-functions
 
