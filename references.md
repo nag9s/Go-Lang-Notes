@@ -16,5 +16,11 @@
 
 [https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md\#installation](https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md#installation)  - Go Eclipse plugin
 
-https://golang.org/dl/  Downloads
+[https://golang.org/dl/](https://golang.org/dl/)  Downloads
+
+
+
+**Examples**
+
+https://www.dotnetperls.com/switch-go
 
