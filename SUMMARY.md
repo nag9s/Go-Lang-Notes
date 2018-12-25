@@ -14,6 +14,7 @@
 * [IDE](ide.md)
   * [GoEclipse](ide/goeclipse.md)
 * [Commands](commands.md)
-* [References](references.md)
 * [Cross Compilation](cross-compilation.md)
+* [Access documentation offline](access-documentation-offline.md)
+* [References](references.md)
 
