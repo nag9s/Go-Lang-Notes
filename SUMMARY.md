@@ -16,6 +16,4 @@
   * [GoEclipse](ide/goeclipse.md)
 * [Commands](commands.md)
 * [Cross Compilation](cross-compilation.md)
-* [Access documentation offline](access-documentation-offline.md)
-* [Concurrency](concurrency.md)
 
