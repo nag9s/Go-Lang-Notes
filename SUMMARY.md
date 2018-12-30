@@ -7,6 +7,7 @@
 * [Why is the programming language GO getting so popular lately?](why-is-the-programming-language-go-getting-so-popular-lately.md)
 * [Why Go Fast](why-go-fast.md)
 * [Books](books.md)
+* [Concurrency](concurrency.md)
 * [promise of compatibility](promise-of-compatibility.md)
 * [Environment  Variables](environment-variables.md)
   * [GOPATH](gopath.md)
@@ -16,6 +17,5 @@
 * [Commands](commands.md)
 * [Cross Compilation](cross-compilation.md)
 * [Access documentation offline](access-documentation-offline.md)
-* [References](references.md)
 * [Concurrency](concurrency.md)
 
