@@ -16,4 +16,5 @@
   * [GoEclipse](ide/goeclipse.md)
 * [Commands](commands.md)
 * [Cross Compilation](cross-compilation.md)
+* References
 
