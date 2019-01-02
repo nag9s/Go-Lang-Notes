@@ -8,6 +8,8 @@
 * [Why Go Fast](why-go-fast.md)
 * [Books](books.md)
 * [Concurrency](concurrency.md)
+  * [channels](concurrency/channels.md)
+    * [Unidirectional    Channel](concurrency/channels/unidirectional-channel.md)
 * [promise of compatibility](promise-of-compatibility.md)
 * [Environment  Variables](environment-variables.md)
   * [GOPATH](gopath.md)
