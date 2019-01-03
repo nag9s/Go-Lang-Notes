@@ -10,3 +10,5 @@ Sendonly Channel \(send channel\)\(write stream\)
 
 chan&lt;-
 
+soc := make\(chan&lt;- int\)
+
