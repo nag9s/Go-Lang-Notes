@@ -6,9 +6,7 @@ Readonly channel  \(receive channel\)\(Read Stream\)  allows only **read operati
 
 roc := make\(&lt;-chan int\)
 
-Sendonly Channel \(send channel\)\(write stream\) allow only **write operation**
-
-on them.
+Sendonly Channel \(send channel\)\(write stream\) allow only **write operation **on them.
 
 chan&lt;-
 
