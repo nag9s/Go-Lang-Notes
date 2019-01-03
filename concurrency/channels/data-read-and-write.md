@@ -6,7 +6,7 @@ c &lt;- data
 
 &lt;- c
 
-
+// read data and assign it to 'data'
 
 var data int
 
