@@ -12,3 +12,7 @@ var data int
 
 data = &lt;- c
 
+// read data - shrt hand operator
+
+data := &lt;- c
+
