@@ -10,6 +10,7 @@
 * [Concurrency](concurrency.md)
   * [channels](concurrency/channels.md)
     * [Unidirectional    Channel](concurrency/channels/unidirectional-channel.md)
+    * Bi Directional
 * [promise of compatibility](promise-of-compatibility.md)
 * [Environment  Variables](environment-variables.md)
   * [GOPATH](gopath.md)
