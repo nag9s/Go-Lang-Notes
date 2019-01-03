@@ -1,5 +1,3 @@
-
-
 write 'data' to channel 'c'
 
 c &lt;- data
@@ -10,5 +8,7 @@ c &lt;- data
 
 
 
+var data int
 
+data = &lt;- c
 
