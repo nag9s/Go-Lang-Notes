@@ -13,6 +13,7 @@
     * [Bi Directional](concurrency/channels/bi-directional.md)
       * [Buffered](concurrency/channels/bi-directional/buffered.md)
       * [UnBuffered](concurrency/channels/bi-directional/unbuffered.md)
+    * [Data read and write](concurrency/channels/data-read-and-write.md)
 * [promise of compatibility](promise-of-compatibility.md)
 * [Environment  Variables](environment-variables.md)
   * [GOPATH](gopath.md)
