@@ -15,6 +15,7 @@
       * [UnBuffered](concurrency/channels/bi-directional/unbuffered.md)
     * [Data read and write](concurrency/channels/data-read-and-write.md)
     * [check  status](concurrency/channels/check-status.md)
+  * [Result of channel operations given a channel’s state](concurrency/result-of-channel-operations-given-a-channels-state.md)
 * [promise of compatibility](promise-of-compatibility.md)
 * [Environment  Variables](environment-variables.md)
   * [GOPATH](gopath.md)
