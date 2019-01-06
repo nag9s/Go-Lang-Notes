@@ -1,8 +1,10 @@
-Conversions fro m bidirec tion al to unidirec tion al channel typ es are
+ Conversions from bidirectional to unidirectional channel types are permitted in any assignment. There is no going back, however: once you have a value of a unidirectional type such as 
 
-permit ted in any assig nment. There is no going back, how ever: once you have a value of a
+`chan <- int`
 
-unidirec tion al typ e such as chan&lt;- int, there is no way to obt ain fro m it a value of typ e
+, there is no way to obtain from it a value of type 
 
-chan int that refers to the same channel dat a st ruc ture.
+`chan int`
+
+ that refers to the same channel data structure.
 
