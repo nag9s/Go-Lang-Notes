@@ -6,3 +6,9 @@ x = &lt;-ch // a receive expression in an assignment statement
 
 ![](/assets/import1.png)
 
+
+
+
+
+case takeStream &lt;- &lt;-valueStream: // receive on valuestream\(uni directional  channel\) and send
+
