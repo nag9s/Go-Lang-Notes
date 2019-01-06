@@ -4,13 +4,5 @@ x = &lt;-ch // a receive expression in an assignment statement
 
 &lt;-ch  // a receive statement; result is discarded
 
-```
-chan
-```
-
-```
-
-```
-
 ![](/assets/import1.png)
 
