@@ -6,6 +6,7 @@
 * [Why is the programming language GO getting so popular lately?](https://www.quora.com/Why-is-the-programming-language-GO-getting-so-popular-lately)
 * [Why is the programming language GO getting so popular lately?](why-is-the-programming-language-go-getting-so-popular-lately.md)
 * [Why Go Fast](why-go-fast.md)
+* [Scope](scope.md)
 * [Books](books.md)
 * [Concurrency](concurrency.md)
   * [channels](concurrency/channels.md)
@@ -23,7 +24,7 @@
   * GOROOT
 * [IDE](ide.md)
   * [GoEclipse](ide/goeclipse.md)
-* [Commands](commands.md)
+* Scope
 * [Cross Compilation](cross-compilation.md)
 * [References](references.md)
 
